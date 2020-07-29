@@ -1,0 +1,11 @@
+{
+  "name": "poc_loja-backend",
+  "version": "1.0.0",
+  "description": "Projeto de loja elaborado em conjunto com o intuito de se aprofundar em Nodejs, React e boas práticas de desenvolvimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Cavalcante & Joao Magalhaes",
+  "license": "ISC"
+}
